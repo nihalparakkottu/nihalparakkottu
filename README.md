@@ -27,8 +27,6 @@
 
 ---
 
----
-
 ## 👨‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -52,31 +50,6 @@ class EliteDataAnalyst:
 
 analyst = EliteDataAnalyst()
 print(f"🚀 Transforming Data into Intelligence!")
-```
-
----
-
-## 🛠️ Tech Stack
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class EliteDataAnalyst:
-    def __init__(self):
-        self.name = "Muhammed Nihal Parakkottu"
-        self.location = "London, UK"
-        self.degree = "MSc Business Analytics & Consultancy"
-        self.stack = ["Python", "SQL", "Power BI", "Tableau", "Advanced Excel"]
-        self.currently_learning = ["IBM Data Analyst Certificate", "Microsoft Power BI Certificate"]
-        
-    def fun_fact(self):
-        return "I love turning messy data into compelling stories that drive decisions!"
-    
-    def motto(self):
-        return "Data doesn't lie, but it needs a good translator. That's me! 📊"
-
-analyst = DataAnalyst()
-print(f"Hello, I'm {analyst.name}!")
 ```
 
 ---
