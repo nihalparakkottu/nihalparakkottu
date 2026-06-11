@@ -105,17 +105,90 @@ print(f"Hello, I'm {analyst.name}!")
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nihalparakkottu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/nihalparakkottu)
+| 🎯 Milestone | 🏅 Badge | 📌 Status |
+|:---:|:---:|:---:|
+| **9 Repositories** | ![Repos](https://img.shields.io/badge/Repositories-9-70A5FD?style=flat-square) | ✅ Active |
+| **Data Analytics Expert** | ![Expert](https://img.shields.io/badge/Expert-Data%20Analytics-BF91F3?style=flat-square) | ✅ Proven |
+| **3 Featured Projects** | ![Projects](https://img.shields.io/badge/Projects-3%2B-38BDAE?style=flat-square) | ✅ Delivered |
+| **30% Impact** | ![Impact](https://img.shields.io/badge/Impact-Downtime%20Reduction-FF6B6B?style=flat-square) | ✅ Achieved |
+| **25% Improvement** | ![Accuracy](https://img.shields.io/badge/Accuracy-25%25%20Boost-F9A825?style=flat-square) | ✅ Delivered |
+| **40% Optimization** | ![Speed](https://img.shields.io/badge/Speed-40%25%20Faster-52C41A?style=flat-square) | ✅ Optimized |
+
+</div>
+
+## 💡 Expertise Matrix
+
+<table align="center">
+<tr>
+<td>
+
+| Skill | Level |
+|:---:|:---:|
+| **Python & Pandas** | ⭐⭐⭐⭐⭐ |
+| **SQL Queries** | ⭐⭐⭐⭐⭐ |
+| **Power BI** | ⭐⭐⭐⭐⭐ |
+| **Tableau** | ⭐⭐⭐⭐☆ |
+| **Data Analysis** | ⭐⭐⭐⭐⭐ |
+
+</td>
+<td>
+
+| Skill | Level |
+|:---:|:---:|
+| **Excel Advanced** | ⭐⭐⭐⭐⭐ |
+| **Machine Learning** | ⭐⭐⭐⭐☆ |
+| **DAX Formulas** | ⭐⭐⭐⭐☆ |
+| **Data Visualization** | ⭐⭐⭐⭐⭐ |
+| **ETL Processes** | ⭐⭐⭐⭐☆ |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Current Focus Areas
+
+<div align="center">
+
+```
+🎯 PROFESSIONAL DEVELOPMENT ROADMAP
+
+📊 Data Analytics
+   ├─ Advanced Time Series Forecasting
+   ├─ Real-time Dashboard Development  
+   └─ Predictive Analytics & ML Models
+
+☁️ Cloud & Scalability
+   ├─ Azure Data Factory & Pipelines
+   ├─ Data Warehouse Architecture
+   └─ Big Data Processing (Spark, Hadoop)
+
+🤖 AI & Automation
+   ├─ LLM Integration for Data Analysis
+   ├─ Automated Reporting Systems
+   └─ AI-Powered Insights Generation
+```
 
 </div>
 
 ---
 
-## 💼 Work Experience
+## 🚀 Quick Project Links
+
+<div align="center">
+
+[![Customer Sales Analysis](https://img.shields.io/badge/-📊%20Customer%20Sales%20Analysis-70A5FD?style=for-the-badge&logoColor=white)](https://github.com/nihalparakkottu)
+[![Power BI Dashboard](https://img.shields.io/badge/-💼%20Superstore%20Dashboard-BF91F3?style=for-the-badge&logoColor=white)](https://github.com/nihalparakkottu)
+[![ML Price Prediction](https://img.shields.io/badge/-🏠%20Housing%20Price%20Prediction-38BDAE?style=for-the-badge&logoColor=white)](https://github.com/nihalparakkottu)
+
+</div>
+
+---
 
 <details>
 <summary><b>Technical Support Engineer | Next Education | Aug 2022 - Sep 2023 | London, UK</b></summary>
@@ -190,18 +263,110 @@ Cloud & DevOps
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's Connect & Collaborate!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nihalparakkottu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nihalparakkottu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nihalparakkottu-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihalparakkottu)
-[![GitHub](https://img.shields.io/badge/GitHub-nihalparakkottu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nihalparakkottu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nihal--portfolio-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://nihal-portfolio-mu.vercel.app)
+### 🤝 Get in Touch
 
-**Phone:** +44 7747660189 | **Location:** London, UK
+[![Email](https://img.shields.io/badge/Email-nihalparakkottu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihalparakkottu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nihalparakkottu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihalparakkottu)
+[![GitHub](https://img.shields.io/badge/GitHub-@nihalparakkottu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihalparakkottu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nihal--portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://nihal-portfolio-mu.vercel.app)
 
-*Always eager to collaborate on data-driven projects and share insights!* 🚀
+### 📞 Contact Info
+
+| 🌐 | 📧 | 📱 |
+|:---:|:---:|:---:|
+| **Location** | **Email** | **Phone** |
+| London, UK | nihalparakkottu@gmail.com | +44 7747660189 |
+
+---
+
+### 💬 What I'm Interested In
+
+✅ **Data Analytics & BI Projects** • ✅ **Consulting & Dashboards** • ✅ **Collaborative Teams** • ✅ **Growth Opportunities**
+
+*Let's turn data into decisions! Feel free to reach out for collaborations, opportunities, or just to chat about data! 🚀*
+
+</div>
+
+---
+
+## 📊 By The Numbers
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+**9+**<br/>_Repositories_
+
+</td>
+<td align="center">
+
+**3+**<br/>_Featured Projects_
+
+</td>
+<td align="center">
+
+**30%**<br/>_Downtime Reduction_
+
+</td>
+<td align="center">
+
+**25%**<br/>_Accuracy Boost_
+
+</td>
+<td align="center">
+
+**40%**<br/>_Speed Increase_
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 Professional Summary
+
+<div align="center">
+
+> **Results-driven Data Analyst** with 1+ year of hands-on experience transforming complex datasets into actionable insights. Proven expertise in building KPI dashboards, statistical analysis, and data storytelling. Specialized in Python, SQL, Power BI & Tableau.
+>
+> **MSc Business Analytics** graduate with **GPA 3.94/4.5** from University of Hertfordshire. Passionate about data-driven decision-making and leveraging analytics to solve real-world business problems.
+
+</div>
+
+---
+
+## 🎯 My Interests & Passions
+
+<div align="center">
+
+| 🏷️ Interest | 📝 Description |
+|:---:|:---|
+| 📊 **Business Intelligence** | Creating impactful dashboards that drive strategic decisions |
+| 🔬 **Data Science** | Building predictive models and uncovering hidden patterns |
+| 📈 **Growth Analytics** | Measuring KPIs and optimizing business metrics |
+| 🤖 **AI & Automation** | Integrating machine learning into business workflows |
+| 💡 **Problem Solving** | Tackling complex data challenges with creative solutions |
+| 🌍 **Continuous Learning** | Staying updated with latest tools and industry trends |
+
+</div>
+
+---
+
+## 🔗 Useful Links
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-nihal--portfolio--mu.vercel.app-lightblue?style=flat-square)](https://nihal-portfolio-mu.vercel.app)
+[![Medium](https://img.shields.io/badge/📝%20Medium-@nihalparakkottu-black?style=flat-square)](https://medium.com)
+[![GitHub Stats](https://img.shields.io/badge/📊%20GitHub%20Stats-Click%20Above-brightgreen?style=flat-square)](https://github.com/nihalparakkottu)
 
 </div>
 
@@ -209,8 +374,21 @@ Cloud & DevOps
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nihalparakkottu&color=70A5FD)
+![Profile Views](https://komarev.com/ghpvc/?username=nihalparakkottu&color=70A5FD&style=flat-square)
+
+### ⏰ Availability Status
+
+| 🟢 Open to Opportunities | 💼 Available for Consulting | 🤝 Open for Collaboration |
+|:---:|:---:|:---:|
+
+---
+
+### 🌟 Final Thought
+
+*"In data we trust, but in insights we thrive. Let's build something amazing together!"*
 
 </div>
+
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
