@@ -31,26 +31,27 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class EliteDataAnalyst:
-    def __init__(self):
-        self.name = "Muhammed Nihal Parakkottu"
-        self.title = "Elite Data Analyst & BI Specialist"
-        self.location = "London, UK 🌍"
-        self.education = "MSc Analytics (GPA: 3.94/4.5) 🎓"
-        self.expertise = ["Python", "SQL", "Power BI", "Tableau", "ML"]
-        self.impact = "30% ↓ Downtime | 25% ↑ Accuracy | 40% ↑ Speed"
-        
-    def superpowers(self):
-        return {
-            "data_storytelling": "⭐⭐⭐⭐⭐",
-            "dashboard_wizardry": "⭐⭐⭐⭐⭐",
-            "problem_solving": "⭐⭐⭐⭐⭐",
-        }
+Hi! I'm **Muhammed Nihal Parakkottu**, an **Elite Data Analyst & BI Specialist** based in **London, UK** 🌍
 
-analyst = EliteDataAnalyst()
-print(f"🚀 Transforming Data into Intelligence!")
-```
+### 📊 What I Do:
+I transform complex, messy data into **actionable insights** that drive real business decisions. With an **MSc in Business Analytics (GPA: 3.94/4.5)** from University of Hertfordshire, I combine technical expertise with strategic thinking.
+
+### 💡 My Superpowers:
+- 🎯 **Data Storytelling** ⭐⭐⭐⭐⭐ - Turning numbers into narratives
+- 📊 **Dashboard Wizardry** ⭐⭐⭐⭐⭐ - Building dashboards that actually drive decisions  
+- 🧠 **Problem Solving** ⭐⭐⭐⭐⭐ - Tackling complex challenges creatively
+
+### 🛠️ My Arsenal:
+**Languages:** Python • SQL • R  
+**BI Tools:** Power BI • Tableau • Advanced Excel  
+**Specialization:** Data Analysis • ETL • Machine Learning • Cloud Analytics
+
+### 📈 The Impact:
+- **30% Downtime Reduction** 📉 at Next Education
+- **25% Accuracy Improvement** 📈 through advanced DAX optimization
+- **40% Speed Optimization** ⚡ in report processing  
+
+🚀 **Mission:** Transform Data into Intelligence!
 
 ---
 
